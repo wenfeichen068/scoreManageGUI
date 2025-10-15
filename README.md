@@ -162,5 +162,5 @@ MIT License - 详见 [LICENSE](LICENSE) 文件
 **🎉 立即下载体验，让成绩管理变得更简单、更智能！**
 
 ---
-*如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！*# scoreManageGUI
-# scoreManageGUI
+*如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！*
+
